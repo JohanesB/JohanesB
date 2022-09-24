@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohanes</h1>
 <h3 align="center">Full Stack developer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanesb" alt="johanesb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jo_sniper_" target="blank"><img src="https://img.shields.io/twitter/follow/jo_sniper_?logo=twitter&style=for-the-badge" alt="jo_sniper_" /></a> </p>
 
